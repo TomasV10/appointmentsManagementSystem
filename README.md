@@ -5,7 +5,7 @@
 Entry page: https://appointments-manager-system.herokuapp.com/mvc/appointments/reservation
 
 # Stack
-PostgreSQL database, Spring framework, Thymeleaf template engine.
+PostgreSQL(pgAdmin 4) database, Spring framework, Thymeleaf template engine.
 
 *Please check your port.
 
