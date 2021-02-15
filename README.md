@@ -1,7 +1,11 @@
 # appointmentsManagementSystem
 
+# Heroku 
+
+Entry page: https://appointments-manager-system.herokuapp.com/mvc/appointments/reservation
+
 # Stack
-MySQL(Workbench) database, Spring framework, Thymeleaf template engine.
+PostgreSQL database, Spring framework, Thymeleaf template engine.
 
 *Please check your port.
 
@@ -10,7 +14,7 @@ Application accesses the database whose name is "appointments_management"
 Please create database with that name.
 
 # 2Step
-Import database files to DB you have created ("appointments_management") . Files are located in project directory: src/main/resources/dbdump
+Import database file to DB you have created ("appointments_management") . File are located in project directory: src/main/resources/dbdump
 
 # 3Step
 
